@@ -18,7 +18,6 @@ local ephemeral = (vim.o.background == "dark")
 			ephemeral13_gui = "#EBCB8B", -- ephemeral13 in palette
 			ephemeral14_gui = "#A3BE8C", -- ephemeral14 in palette
 			ephemeral15_gui = "#BD99FF", -- ephemeral15 in palette
-			float = ephemeral0_gui,
 			none = "NONE",
 		}
 	or {
@@ -40,7 +39,6 @@ local ephemeral = (vim.o.background == "dark")
 		ephemeral13_gui = "#F1FA8C", -- ephemeral13 in palette
 		ephemeral14_gui = "#53E2AE", -- ephemeral14 in palette
 		ephemeral15_gui = "#BD99FF", -- ephemeral15 in palette
-		float = ephemeral1_gui,
 		none = "NONE",
 	}
 

@@ -1,4 +1,4 @@
-local nord = require("ephemeral.colors")
+local ephemeral = require("ephemeral.colors")
 
 local theme = {}
 
